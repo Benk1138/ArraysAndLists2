@@ -1,0 +1,14 @@
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/bin/Debug/netcoreapp3.1/ArraysAndLists2.0
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/bin/Debug/netcoreapp3.1/ArraysAndLists2.0.deps.json
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/bin/Debug/netcoreapp3.1/ArraysAndLists2.0.runtimeconfig.json
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/bin/Debug/netcoreapp3.1/ArraysAndLists2.0.runtimeconfig.dev.json
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/bin/Debug/netcoreapp3.1/ArraysAndLists2.0.dll
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/bin/Debug/netcoreapp3.1/ArraysAndLists2.0.pdb
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.csproj.AssemblyReference.cache
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.AssemblyInfoInputs.cache
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.AssemblyInfo.cs
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.csproj.CoreCompileInputs.cache
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.dll
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.pdb
+/Users/benkunkel/Projects/ArraysAndLists2.0/ArraysAndLists2.0/obj/Debug/netcoreapp3.1/ArraysAndLists2.0.genruntimeconfig.cache
